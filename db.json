@@ -1,12 +1,22 @@
-{"projects": [{
-"id": "101",
-"name": "Project101",
-"description": "Test",
-"status": "90"
-},{
-"id": "102",
-"name": "Project102",
-"description": "Test2",
-"status": "60"
-}]
+{
+  "projects": [
+    {
+      "name": "Project101",
+      "description": "Test",
+      "status": 90,
+      "id": 1
+    },
+    {
+      "name": "Project 102",
+      "description": "Test",
+      "status": 50,
+      "id": 2
+    },
+    {
+      "name": "Project103",
+      "description": "Testing",
+      "status": 75,
+      "id": 3
+    }
+  ]
 }
